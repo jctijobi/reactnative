@@ -5,7 +5,7 @@ import { Ionicons } from '@expo/vector-icons';
 const data = [
   {
     id: '1',
-    title: 'Tiny home in Rælingen',
+    title: 'Tiny house in Rælingen',
     rating: 4.96,
     reviews: 217,
     price: 91,
@@ -19,7 +19,7 @@ const data = [
   },
   {
     id: '2',
-    title: 'Cozy cabinnnn in the woods',
+    title: 'Cozy cabin in the woods',
     rating: 4.8,
     reviews: 120,
     price: 85,
@@ -32,7 +32,7 @@ const data = [
     bathrooms: 1,
   },{
     id: '3',
-    title: 'City home in Rælingen',
+    title: 'City home in citycenter',
     rating: 4.96,
     reviews: 217,
     price: 91,
